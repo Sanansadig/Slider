@@ -1,0 +1,70 @@
+.header{
+	background - color: lightgrey;
+
+}
+.border {
+	border-bottom:2px solid blue;
+
+}
+.reng {
+	background-color: lightgrey;
+}
+
+li {
+	display:inline;
+	padding-left:20px;
+
+}
+.header h1 {
+	margin:0;
+	font-style:italic;
+}
+.icons {
+	margin-top:50px;
+
+}
+.icons i {
+	display:block;
+	text-align: center;
+	padding:10px;
+
+}
+
+.buildslider {
+	width:600px;
+	height:100px;
+	border:1px solid black;
+	margin:80px 0px 50px;
+	font-size:30px;
+	background-color:lightgray;
+	border:hidden;
+}
+.runslider {
+	width:600px;
+	height:100px;
+	border:1px solid black;
+	margin:80px 0px 50px;
+	font-size:30px;
+	background-color:lightgray;
+	border:hidden;
+}
+.content {
+	background-image: url('hekim.jpeg');
+	height: 600px;
+	background-size: cover;
+	
+}
+.margin_top {
+	margin-top: 10px;
+}
+
+.position {
+	position:fixed;
+}
+
+.button {
+	text-align: center;
+	font-size:80px;
+	margin-top:200px;
+}
+
